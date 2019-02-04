@@ -1,7 +1,7 @@
 # Objectives
 Guide on how to build a **Home Automation solution**, running on a **Raspberry Pi with openHABian and openHAB2**.
 
-As an openHAB Beginner
+## As an openHAB Beginner
 * The main goal is to learn openHABian & openHAB2.
 * Get a Home Automation solution up & running and extend.
 * There might be better solutions for things shared – but the solution works fine so far.
@@ -38,6 +38,9 @@ o	Other 433Mhz devices, i.e. door contact
 *	Setting up the Raspberry Pi, RFXCOM with connected devices, Somfy roller shutters and other devices. Use the Paper UI for Binding, Things, Channel configuration.
 *	Create the Basic UI textual configuration files including rrd4j charts & MQTT. 
 *	Planned UI’s HABPanel & Node-RED (later stage, not included in this document)
+
+## Links
+This guide is also published [here](https://community.openhab.org/t/make-project-home-automation/38613) on the openHAB forum.
 
 ## Warrenty
 THIS DOCUMENT IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
