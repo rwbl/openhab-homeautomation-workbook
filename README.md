@@ -1,5 +1,5 @@
 # Objectives
-Guide on how to build a **Home Automation solution**, running on a **Raspberry Pi with openHABian and openHAB2**.
+Workbook on how to build a **Home Automation solution**, running on a **Raspberry Pi with openHABian and openHAB2**.
 
 ## As an openHAB Beginner
 * The main goal is to learn openHABian & openHAB2.
